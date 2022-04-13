@@ -1,0 +1,41 @@
+{
+  "ProductList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 320,
+      "comment": "fadfdaoddj",
+      "date": "2022-04-20T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "oops",
+      "date": "2022-04-18T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Potato",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "good",
+      "date": "2022-04-19T18:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
